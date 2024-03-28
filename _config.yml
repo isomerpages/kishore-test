@@ -2,7 +2,7 @@ title: Title
 url: https://www.isomer.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6f24ff"
+  primary-color: "#9b9b9b"
   secondary-color: "#923f3f"
   media-colors:
     - title: media-color-one
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.hehe.amplifyapp.com/
 prod: https://master.hehe.amplifyapp.com/
 shareicon: /images/doggo4.png
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
